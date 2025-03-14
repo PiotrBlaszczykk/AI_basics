@@ -1,1 +1,1 @@
-# AGH basics of AI course
+# Fundamentals of Artificial Intelligence AGH course
