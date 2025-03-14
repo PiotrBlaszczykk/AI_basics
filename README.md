@@ -1,3 +1,1 @@
-# AI_basics
-
-AGH basics of AI course
+# AGH basics of AI course
